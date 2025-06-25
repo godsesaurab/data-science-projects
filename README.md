@@ -11,3 +11,5 @@ In this project focused on credit card fraud detection using a highly imbalanced
 
 ### 3. Customer Segmentation
 Performed unsupervised customer segmentation using K-Means. It involved data preprocessing, feature engineering, and applying t-SNE for visualization. The optimal number of clusters was determined using the elbow method. K-Means was implemented to segment customers, and the results were visualized, providing insights for targeted strategies.
+
+### 4. Sales Forecast Prediction
