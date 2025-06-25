@@ -13,3 +13,4 @@ In this project focused on credit card fraud detection using a highly imbalanced
 Performed unsupervised customer segmentation using K-Means. It involved data preprocessing, feature engineering, and applying t-SNE for visualization. The optimal number of clusters was determined using the elbow method. K-Means was implemented to segment customers, and the results were visualized, providing insights for targeted strategies.
 
 ### 4. Sales Forecast Prediction
+A sales forecasting task was performed using the XGBoost machine learning model. The time-series data was preprocessed, lagged features for forecasting were created, an XGBoost model was trained, and its performance was evaluated using RMSE. This demonstrates a common approach in data science for time-series prediction problems.
