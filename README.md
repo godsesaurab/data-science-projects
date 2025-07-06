@@ -16,3 +16,4 @@ Performed unsupervised customer segmentation using K-Means. It involved data pre
 A sales forecasting task was performed using the XGBoost machine learning model. The time-series data was preprocessed, lagged features for forecasting were created, an XGBoost model was trained, and its performance was evaluated using RMSE. This demonstrates a common approach in data science for time-series prediction problems.
 
 ### 5. Recommendation System
+we built a movie recommendation system using collaborative filtering. We loaded and analyzed movie rating data, performed statistical analysis on user and movie ratings, created a user-item sparse matrix, and implemented a KNN-based approach to find similar movies and recommend them to users based on their highest-rated movie.
