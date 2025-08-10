@@ -17,3 +17,5 @@ A sales forecasting task was performed using the XGBoost machine learning model.
 
 ### 5. Recommendation System
 we built a movie recommendation system using collaborative filtering. We loaded and analyzed movie rating data, performed statistical analysis on user and movie ratings, created a user-item sparse matrix, and implemented a KNN-based approach to find similar movies and recommend them to users based on their highest-rated movie.
+
+### 6. Time Series Analysis & Visualization
