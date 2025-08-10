@@ -19,3 +19,6 @@ A sales forecasting task was performed using the XGBoost machine learning model.
 we built a movie recommendation system using collaborative filtering. We loaded and analyzed movie rating data, performed statistical analysis on user and movie ratings, created a user-item sparse matrix, and implemented a KNN-based approach to find similar movies and recommend them to users based on their highest-rated movie.
 
 ### 6. Time Series Analysis & Visualization
+In this notebook, we specifically analyzed stock price time series data. Key steps included visualizing daily and monthly 'High' price trends, employing the ACF plot to assess seasonality, and performing the ADF test which indicated non-stationarity. We then applied differencing, confirming its effectiveness in achieving stationarity through a subsequent ADF test, and used a moving average to smooth the data.
+
+
