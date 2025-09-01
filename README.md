@@ -21,4 +21,7 @@ we built a movie recommendation system using collaborative filtering. We loaded 
 ### 6. Time Series Analysis & Visualization
 In this notebook, we specifically analyzed stock price time series data. Key steps included visualizing daily and monthly 'High' price trends, employing the ACF plot to assess seasonality, and performing the ADF test which indicated non-stationarity. We then applied differencing, confirming its effectiveness in achieving stationarity through a subsequent ADF test, and used a moving average to smooth the data.
 
+### 7. Anomaly Detection with Auto-Encoders
+
+
 
